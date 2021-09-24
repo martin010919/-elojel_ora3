@@ -103,7 +103,11 @@ namespace ywusm7_210924
             Console.WriteLine("Kérek be egy számot");
 
             int szam = Int32.Parse(Console.ReadLine());
+            //
+            for (int i = 0; i < darab; i++)
+            {
 
+            }
 
 
         }
